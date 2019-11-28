@@ -9,7 +9,7 @@
   <includeBaseDirectory>false</includeBaseDirectory>
     <files>
       <file>
-        <source>${project.basedir}/application-bicibogo.properties</source>
+        <source>src/main/resources/application-bicibogo.properties</source>
         <outputDirectory>/</outputDirectory>
         <destName>config.properties</destName>
       </file>
